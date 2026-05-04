@@ -1,0 +1,16 @@
+Evaluation Report
+
+Accuracy: 100.00%
+
+              precision    recall  f1-score   support
+
+     Genuine       1.00      1.00      1.00      1558
+        Fake       1.00      1.00      1.00      1478
+
+    accuracy                           1.00      3036
+   macro avg       1.00      1.00      1.00      3036
+weighted avg       1.00      1.00      1.00      3036
+
+Confusion Matrix:
+[[1558    0]
+ [   0 1478]]
